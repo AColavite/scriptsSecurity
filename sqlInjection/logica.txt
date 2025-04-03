@@ -1,0 +1,12 @@
+# Target URL
+
+# SQLi payloads para detecção
+
+# função para testar SQL Injection vulnerability
+
+# função extrair nome-database usando blind SQL Injection
+
+# função pra dump uma tabela de uma database
+
+# Execução principal
+  # Dumpar users de uma tabela
